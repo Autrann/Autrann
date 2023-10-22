@@ -1,3 +1,8 @@
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
+
+
+
+
 # 💫 About Me:
 Programmer.<br>Solid foundation on data structures and algorithms.<br>I have honed my problem solving abilities through competitive programming events and optimizing code performance
 
