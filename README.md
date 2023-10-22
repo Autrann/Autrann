@@ -1,4 +1,3 @@
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
 
 
 
@@ -21,6 +20,7 @@ Programmer.<br>Solid foundation on data structures and algorithms.<br>I have hon
 ![](https://github-profile-trophy.vercel.app/?username=Autrann&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Autrann&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
