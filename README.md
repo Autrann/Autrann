@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/Autrann/Autrann/main/pp.png" width="200" height="200" style="margin-right: 30%;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="200" height="200">
    
