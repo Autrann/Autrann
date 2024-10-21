@@ -1,5 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Luis+Autran.;Welcome+to+my+Github+Profile%3A))](https://git.io/typing-svg)
+
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="200" height="200">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmE2cm90eGprNzVmbHdia2thMzNseTc2b3V1ejVuc2k6aTcyZmxiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="200" height="200" align="right">
+
+    
 </div>
 
 
