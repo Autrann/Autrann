@@ -33,9 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="35" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="35" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="OpenGL" height="35" width="40">
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)" alt="Laravel" height="35" width="40">
 
-    <!-- Plataformas Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="35" width="40">
   
   <!-- Herramientas de Desarrollo -->
