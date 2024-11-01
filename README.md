@@ -9,7 +9,7 @@
 
 
 ### About Me:
-Solid foundation on data structures and algorithms.<br> I have honed my problem solving abilities through competitive programming events and optimizing code performance
+📚 Solid foundation on data structures and algorithms.<br> 💻 I have honed my problem solving abilities through competitive programming events and optimizing code performance
 
 
 ### Socials:
